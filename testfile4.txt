@@ -1,5 +1,5 @@
 Q
-A B C
+A B C D E F G H I
 -----------------------
 S
 0 1
@@ -8,9 +8,15 @@ qo
 A
 ------------------------
 F
-A C
+C
 -----------------------
 T 0 1
-A B C
-B C A
-C A B
+A B F
+B G C
+C A C
+D C G
+E H F
+F C G
+G G E
+H G C
+I G C
