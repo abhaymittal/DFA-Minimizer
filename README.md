@@ -7,7 +7,9 @@ This program implements a minimization algorithm for deterministic finite automa
 It is possible to see the intermediate steps in the program.
 
 ###Input###
+
 A DFA in its 5 tuple form as:
+
 - Q  : The set of states
 - S   : The alphabet set
 - q0 : Initial state
